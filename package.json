@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-nya",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "browse torrents and access magnet uris from nyaa",
   "main": "index.js",
   "scripts": {},
@@ -8,14 +8,14 @@
   "author": "Angrevol",
   "license": "MIT",
   "keywords": [
-	"hain0",
+    "hain0",
     "hain-0.5.0"
   ],
   "dependencies": {
     "got": "latest",
-	"cookie": "latest",
-	"cheerio": "latest",
-	"torrent-to-magnet": "latest"
+    "cookie": "latest",
+    "cheerio": "latest",
+    "torrent-to-magnet": "latest"
   },
   "hain": {
     "prefix": "/nya",
